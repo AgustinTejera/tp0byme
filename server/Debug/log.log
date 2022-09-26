@@ -1,0 +1,61 @@
+[INFO] 21:06:08:487 Servidor/(15703:15703): Servidor listo para recibir al cliente
+[INFO] 21:27:28:788 Servidor/(16811:16811): Servidor listo para recibir al cliente
+[INFO] 21:28:02:201 Servidor/(16811:16811): Se conecto un cliente!
+[INFO] 21:28:02:202 Servidor/(16811:16811): Me llego el mensaje valor
+[ERROR] 21:28:02:202 Servidor/(16811:16811): el cliente se desconecto. Terminando servidor
+[INFO] 21:43:04:831 Servidor/(17909:17909): Servidor listo para recibir al cliente
+[INFO] 21:43:54:597 Servidor/(17909:17909): Se conecto un cliente!
+[INFO] 21:43:54:597 Servidor/(17909:17909): Me llego el mensaje valor
+[INFO] 21:44:22:139 Servidor/(17909:17909): Me llegaron los siguientes valores:
+
+[INFO] 21:44:22:140 Servidor/(17909:17909): pepepepepe
+[INFO] 21:44:22:822 Servidor/(17909:17909): Me llegaron los siguientes valores:
+
+[INFO] 21:44:22:822 Servidor/(17909:17909): pepepepepe
+[INFO] 21:44:22:822 Servidor/(17909:17909): sss
+[INFO] 21:44:26:113 Servidor/(17909:17909): Me llegaron los siguientes valores:
+
+[INFO] 21:44:26:114 Servidor/(17909:17909): pepepepepe
+[INFO] 21:44:26:114 Servidor/(17909:17909): sss
+[INFO] 21:44:26:114 Servidor/(17909:17909): ssssff
+[INFO] 21:45:12:004 Servidor/(17909:17909): Me llegaron los siguientes valores:
+
+[INFO] 21:45:12:004 Servidor/(17909:17909): pepepepepe
+[INFO] 21:45:12:004 Servidor/(17909:17909): sss
+[INFO] 21:45:12:004 Servidor/(17909:17909): ssssff
+[INFO] 21:45:12:004 Servidor/(17909:17909): hola
+[ERROR] 21:45:44:678 Servidor/(17909:17909): el cliente se desconecto. Terminando servidor
+[INFO] 21:46:23:063 Servidor/(18056:18056): Servidor listo para recibir al cliente
+[INFO] 21:46:29:592 Servidor/(18056:18056): Se conecto un cliente!
+[INFO] 21:46:29:595 Servidor/(18056:18056): Me llego el mensaje valor
+[INFO] 21:46:41:634 Servidor/(18056:18056): Me llegaron los siguientes valores:
+
+[INFO] 21:46:41:635 Servidor/(18056:18056): hola servidor
+[INFO] 21:46:44:175 Servidor/(18056:18056): Me llegaron los siguientes valores:
+
+[INFO] 21:46:44:175 Servidor/(18056:18056): hola servidor
+[INFO] 21:46:44:175 Servidor/(18056:18056): soy el cliente
+[INFO] 21:46:45:328 Servidor/(18056:18056): Me llegaron los siguientes valores:
+
+[INFO] 21:46:45:329 Servidor/(18056:18056): hola servidor
+[INFO] 21:46:45:329 Servidor/(18056:18056): soy el cliente
+[INFO] 21:46:45:329 Servidor/(18056:18056): chau
+[ERROR] 21:46:45:816 Servidor/(18056:18056): el cliente se desconecto. Terminando servidor
+[INFO] 21:53:01:573 Servidor/(18370:18370): Servidor listo para recibir al cliente
+[INFO] 11:03:35:324 Servidor/(5119:5119): Servidor listo para recibir al cliente
+[INFO] 11:03:51:289 Servidor/(5119:5119): Se conecto un cliente!
+[INFO] 11:03:51:290 Servidor/(5119:5119): Me llego el mensaje valor
+[INFO] 11:03:53:272 Servidor/(5119:5119): Me llegaron los siguientes valores:
+
+[INFO] 11:03:53:273 Servidor/(5119:5119): soy el cliente
+[INFO] 11:03:54:719 Servidor/(5119:5119): Me llegaron los siguientes valores:
+
+[INFO] 11:03:54:720 Servidor/(5119:5119): soy el cliente
+[INFO] 11:03:54:720 Servidor/(5119:5119): chau
+[ERROR] 11:03:54:909 Servidor/(5119:5119): el cliente se desconecto. Terminando servidor
+[INFO] 11:04:12:801 Servidor/(5190:5190): Servidor listo para recibir al cliente
+[INFO] 11:12:01:520 Servidor/(6253:6253): Servidor listo para recibir al cliente
+[INFO] 11:13:32:444 Servidor/(6253:6253): Se conecto un cliente!
+[INFO] 11:13:32:444 Servidor/(6253:6253): Me llego el mensaje valor
+[ERROR] 11:13:33:111 Servidor/(6253:6253): el cliente se desconecto. Terminando servidor
+[INFO] 11:13:43:552 Servidor/(6526:6526): Servidor listo para recibir al cliente
